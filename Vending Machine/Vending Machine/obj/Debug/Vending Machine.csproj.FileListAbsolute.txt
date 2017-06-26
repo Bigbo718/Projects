@@ -1,0 +1,8 @@
+c:\users\eboateng\documents\visual studio 2017\Projects\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe.config
+c:\users\eboateng\documents\visual studio 2017\Projects\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe
+c:\users\eboateng\documents\visual studio 2017\Projects\Vending Machine\Vending Machine\bin\Debug\Vending Machine.pdb
+c:\users\eboateng\documents\visual studio 2017\Projects\Vending Machine\Vending Machine\obj\Debug\Vending Machine.csprojResolveAssemblyReference.cache
+c:\users\eboateng\documents\visual studio 2017\Projects\Vending Machine\Vending Machine\obj\Debug\Vending Machine.exe
+c:\users\eboateng\documents\visual studio 2017\Projects\Vending Machine\Vending Machine\obj\Debug\Vending Machine.pdb
+C:\Users\eboateng\Documents\Visual Studio 2017\Projects\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe.CodeAnalysisLog.xml
+C:\Users\eboateng\Documents\Visual Studio 2017\Projects\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe.lastcodeanalysissucceeded
